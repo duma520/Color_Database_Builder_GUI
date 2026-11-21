@@ -1,0 +1,2 @@
+cls
+python ColorDatabaseBuilderGUI.py
